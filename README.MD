@@ -1,3 +1,1 @@
-Acesse meu site por:
-
-guilhermezamoner.github.io
+https://guilhermezamoner.github.io/
